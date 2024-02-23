@@ -1,1 +1,2 @@
 # GAN
+Generative adversarial networks
